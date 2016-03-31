@@ -1,0 +1,15 @@
+syntax enable
+set background=dark
+let g:solarized_termcolors=256
+colorscheme solarized
+set nocompatible
+set tabstop=2
+set expandtab
+set shiftwidth=2
+set number
+set ls=2
+set ruler
+set backspace=indent,eol,start
+set backup
+set backupdir=~/.backup
+set directory=~/.vimswap
